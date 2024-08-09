@@ -107,13 +107,7 @@ Got anything to talk about ✉️  at barkuntal6@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=kuntal271&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
@@ -128,6 +122,3 @@ Got anything to talk about ✉️  at barkuntal6@gmail.com
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
