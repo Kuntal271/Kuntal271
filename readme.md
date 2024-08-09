@@ -118,9 +118,6 @@ Got anything to talk about ✉️  at barkuntal6@gmail.com
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=kuntal271&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
