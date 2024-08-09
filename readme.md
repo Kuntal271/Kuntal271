@@ -103,24 +103,16 @@ Got anything to talk about ✉️  at barkuntal6@gmail.com
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal271&hide_border=true&layout=compact" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=kuntal271&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal271&hide_border=true&layout=compact" align="center" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kuntal271&show_icons=true&count_private=true&hide_border=true" align="center" /> 
+</div>  
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kuntal271&&style=flat-square" align="center" />
+</div>  
 
   
 
-<br/>  
 
-
-<br />
